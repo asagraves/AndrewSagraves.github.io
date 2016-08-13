@@ -302,11 +302,12 @@ header .intro-text .intro-heading {
     font-size: 45px;
     line-height: 75px;
     margin-bottom: 50px;
-    padding-bottom: 200px;
+    padding-bottom: 100px;
   }
   .derp {
     font-size: 35px;
-    padding-left: 1000px;
+    padding-left: 1100px;
+    padding-top: 75px;
     position: fixed;
     color: #337ab7;
 
