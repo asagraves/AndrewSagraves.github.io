@@ -719,10 +719,8 @@ ul.social-buttons li a:active {
   font-size: 3em;
 }
 .portfolio-modal .modal-content p {
-  margin-bottom: 30px;
 }
 .portfolio-modal .modal-content p.item-intro {
-  margin: 20px 0 30px;
   font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-style: italic;
   font-size: 16px;
@@ -743,32 +741,27 @@ ul.social-buttons li a:active {
   right: 25px;
   cursor: pointer;
 }
-.portfolio-modal .close-modal:hover {
+/*.portfolio-modal .close-modal:hover {
   opacity: 0.3;
 }
-.portfolio-modal .close-modal .lr {
+*//*.portfolio-modal .close-modal .lr {
   height: 45px;
   width: 1px;
   margin-left: 35px;
   background-color: #222222;
   transform: rotate(45deg);
   -ms-transform: rotate(45deg);
-  /* IE 9 */
   -webkit-transform: rotate(45deg);
-  /* Safari and Chrome */
   z-index: 1051;
-}
-.portfolio-modal .close-modal .lr .rl {
+}*/
+/*.portfolio-modal .close-modal .lr .rl {
   height: 45px;
   width: 1px;
   background-color: #222222;
   transform: rotate(90deg);
   -ms-transform: rotate(90deg);
-  /* IE 9 */
-  -webkit-transform: rotate(90deg);
-  /* Safari and Chrome */
   z-index: 1052;
-}
+}*/
 .portfolio-modal .modal-backdrop {
   opacity: 0;
   display: none;
