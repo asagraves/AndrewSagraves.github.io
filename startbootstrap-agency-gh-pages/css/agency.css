@@ -746,7 +746,7 @@ ul.social-buttons li a:active {
   opacity: 0.3;
 }
 .portfolio-modal .close-modal .lr {
-  height: 75px;
+  height: 45px;
   width: 1px;
   margin-left: 35px;
   background-color: #222222;
@@ -758,7 +758,7 @@ ul.social-buttons li a:active {
   z-index: 1051;
 }
 .portfolio-modal .close-modal .lr .rl {
-  height: 75px;
+  height: 45px;
   width: 1px;
   background-color: #222222;
   transform: rotate(90deg);
